@@ -64,8 +64,9 @@
     display: block;
 }
 /* ---------main---- */
+
 .container{
-    height:85vh;
+    height:120vh;
     width: 100%;
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
